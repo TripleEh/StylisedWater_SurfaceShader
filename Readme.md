@@ -1,4 +1,4 @@
-![Example Video](ExampleVideo.mp4)
+![Example Video](Screenshot.png)
 
 # Wind Waker Water Shader
 
