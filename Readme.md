@@ -1,5 +1,3 @@
-![Example Video](Screenshot.png)
-
 ![Example Gif](readme_header.gif)
 
 # Wind Waker Water Shader
